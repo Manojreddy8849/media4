@@ -1,0 +1,16 @@
+*body{
+        padding: 0px;
+        box-sizing: border-box;
+        margin: 0px;
+}
+img{
+    width : 100%;
+}
+
+
+@media screen and (width > 768px){
+
+img{
+    width : 50%;
+}
+}
